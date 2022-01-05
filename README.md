@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilesh Kumar D</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img src="https://www.cbonlinepvtltd.com/assets/images/Video-creation.gif" alt="My cool logo" width="100%"/>
+<p  align="center"><img src="https://www.cbonlinepvtltd.com/assets/images/Video-creation.gif" alt="My cool logo" width="80%" height="500px"/></p>
 <!-- ![alt text align="center"](https://www.cbonlinepvtltd.com/assets/images/Video-creation.gif) -->
 
 
