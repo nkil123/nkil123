@@ -1,18 +1,29 @@
-### Hi there 👋, my name is Nilesh Kumar
-#### Full Stack Web Developer
-![Full Stack Web Developer](https://www.cbonlinepvtltd.com/assets/images/Video-creation.gif)
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-hi, I'm Nilesh, a passionate full-stack web developer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-Skills:   REACT/Redux / JS / HTML / CSS
-
-- 🌱 I’m currently learning ReactJS and Redux 
-- 👯 I’m looking to collaborate on Web Development Projects. 
-- 💬 Ask me about Web Development, Cricket, Anime. 
-- 📫 How to reach me: nileshkotle123@gmail.com 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nilesh</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/nkil123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/https:/www.linkedin.com/in/nilesh-kotle-bb795712b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/https://twitter.com/nilesh_d_k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nilesh-5tx0r7w4g-nkil123.vercel.app/)  
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **React**
+
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://nilesh-5tx0r7w4g-nkil123.vercel.app/)**
+
+- 📫 How to reach me **nileshkotle123@gmail.com**
+
+- ⚡ Fun fact **I play football and watch anime.**
+
+<a href = "https:/www.linkedin.com/in/nilesh-kotle-bb795712b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/nilesh_d_k"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
+
+
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/nkil123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/https:/www.linkedin.com/in/nilesh-kotle-bb795712b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/https://twitter.com/nilesh_d_k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nilesh-5tx0r7w4g-nkil123.vercel.app/)   -->
 
 
 <h3 align="left">Languages and Tools:</h3>
